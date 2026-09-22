@@ -469,31 +469,21 @@ The purpose of validation was to ensure that transformations and semantic-model 
 
 ### Home
 
-```text
-docs/images/01_home.png
-```
+![Home dashboard](images/01_home.png)
 
 ### Performance Overview
 
-```text
-docs/images/02_overview.png
-```
+![Performance Overview](images/02_overview.png)
 
 ### Territory & Store Performance
 
-```text
-docs/images/03_territories-stores.png
-```
+![Territory and Store Performance](images/03_territories-stores.png)
 
 ### Product Performance
 
-```text
-docs/images/04_products.png
-```
+![Product Performance](images/04_products.png)
 
 ### Channel Trends & Performance
 
-```text
-docs/images/05_channels.png
-```
+![Channel Trends and Performance](images/05_channels.png)
 
